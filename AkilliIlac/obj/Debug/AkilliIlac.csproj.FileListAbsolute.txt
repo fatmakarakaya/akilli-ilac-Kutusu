@@ -1,0 +1,16 @@
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\bin\Debug\AkilliIlac.exe.config
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\bin\Debug\AkilliIlac.exe
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\bin\Debug\AkilliIlac.pdb
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.csprojAssemblyReference.cache
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.EczaciSayfasi.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.frm_giris.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.frm_HastaGiris.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.frm_HastaSayfası.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.Properties.Resources.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.csproj.GenerateResource.cache
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.csproj.CoreCompileInputs.cache
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.exe
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.pdb
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.HastaEkle.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.ReceteEkle.resources
+D:\Akıllı İlac\AkilliIlac\AkilliIlac\obj\Debug\AkilliIlac.IlacKutusu.resources
